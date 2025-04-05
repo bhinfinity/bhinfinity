@@ -26,6 +26,7 @@
 ⭐ [Electrothon 7.0](https://github.com/bhinfinity/Electrothon_7.0)  
 ⭐ [Spec Website](https://github.com/bhinfinity/spec-nith.github.io)  
 ⭐ [JerseyX](https://github.com/bhinfinity/JerseyX)  
+⭐ [GitWanted](https://github.com/bhinfinity/git_wanted)
 
 ---
 
